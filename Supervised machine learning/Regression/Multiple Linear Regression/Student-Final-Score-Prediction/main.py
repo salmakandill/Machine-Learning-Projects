@@ -10,7 +10,7 @@ from sklearn.metrics import(
 )
 
 
-data=pd.read_csv('data\student_performance_interactions.csv')
+data=pd.read_csv(r'data\student_performance_interactions.csv')
 
 print(data.info())
 print (data.head())
