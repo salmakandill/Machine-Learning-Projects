@@ -38,12 +38,13 @@ This version demonstrates how preprocessing improves model performance.
 - Multiple Linear Regression
 
 ## Classification
-- Logistic Regression
-  - Binary Classification
-  - Multiclass Classification
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
+- Binary Classification
+  - Logistic Regression
+- Multiclass Classification
+  - Logistic Regression
+  - Decision Tree
+  - Random Forest
+  - K-Nearest Neighbors (KNN)
 
 ---
 
